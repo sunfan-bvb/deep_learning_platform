@@ -11,7 +11,7 @@
 
 ### login
 首先是注册和登录，包含容错。
-<video src="/videos/login.mp4" controls="controls">您的浏览器不支持播放该视频！</video>
+![](/videos/login.mp4)
 
 ### system
 新的账号登录进入后，没有任何项目，可以新建三种不同的项目。
