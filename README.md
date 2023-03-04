@@ -66,7 +66,7 @@
   cd 到 flask 路径下
   python app.py
 ```
-4. 前端
+3. 前端
 ```bash
   cd 到 panel 路径下
   npm run serve -- --port 8081
