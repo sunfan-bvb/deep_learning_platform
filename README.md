@@ -11,7 +11,7 @@
 
 ### login
 首先是注册和登录，包含容错。
-![](/videos/login.mp4)
+![image](/videos/login.mp4)
 
 ### system
 新的账号登录进入后，没有任何项目，可以新建三种不同的项目。
