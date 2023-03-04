@@ -7,7 +7,6 @@
 接下来，就是如何在工厂中加入新的模型。
 
 后端步骤：
-
 1. 将Dataset类文件放到dataset目录下。
 2. 将dataset/PreFactory.py中的PreFactory类做两个改动。
   (1)将类dataset的定义如源代码中的格式加入到constructPreClass函数中。
@@ -16,7 +15,6 @@
 4. 将模型类按说明放好后，将model/ModelFactory.py文件中的四个函数加入新的类定义（Trainer、Infer类的构造、训练函数的默认调用以及获取loss的方法调用）。
 
 前端步骤：
-
 在src/components/data_A.js文件中加入新的节点定义。模型名称要与后端中的模型名称一致。
 
 至此，新的模型就可以使用了。
