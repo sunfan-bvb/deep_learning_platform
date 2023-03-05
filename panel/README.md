@@ -1,4 +1,3 @@
-# paneltest
 
 ## Project setup
 ```
