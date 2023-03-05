@@ -36,9 +36,9 @@
 <img src="/videos/rename.gif" width="600px">
 
 ### infer
-第二种测试方式，只支持单次上传一组输入文件，可视化输出结果。可以支持不同类型的输出。
+测试，只支持单次上传一组输入文件，可视化输出结果。可以支持不同类型的输出。
 
-<img src="/videos/cvs_infer.gif" width="600px">
+<img src="/videos/csv_infer.gif" width="600px">
 
 <img src="/videos/png_infer.gif" width="600px">
 
