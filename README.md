@@ -30,11 +30,6 @@
 
 <img src="/videos/loss.gif" width="600px">
 
-### test
-我们开发了两种测试模式，这一种可以上传多个文件批量测试。测试后无法直接查看测试结果，结果支持打包下载查看。
-
-<img src="/videos/test.gif" width="600px">
-
 ### rename
 自定义文件名称。
 
